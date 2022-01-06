@@ -9,9 +9,7 @@ h1{
     border-left: solid;
     border-color: blue;
 }
-/*.Mission-of-2022{
-    color:rgb(19, 71, 167);
-}*/
+
 section{
     display: flex;
 }
@@ -22,7 +20,7 @@ section{
     margin-left: 5%;
   }
 .div-width img{
-    width: 70%;    
+    width: 90%;    
 }
 p{
     margin-bottom: 20PX;
@@ -40,7 +38,9 @@ h5{
     margin-bottom: 70px;
 }
 .h2{
+    margin-top: 100px;
     text-align: center;
+    margin-bottom: 50px;
 }
 .container{
     width: 70%;
@@ -57,8 +57,7 @@ h5{
     margin: 10px;
     background-color: rgb(147, 170, 214);
     text-align: left;
-    padding: 15px;
-    
+    padding: 15px;    
 }
 .box-2{
     width: 25%;
@@ -76,11 +75,13 @@ h5{
     text-align: left;
     padding: 15px;
     }
+.global-community{
+    margin-top: 100px;
+}
 .corona-text-color{
     color: orangered;
-
 }
-.readthedocumenation-button{
+.read-the-documenation-button{
     text-decoration: none;
     background-image: linear-gradient(blue, rgb(214, 209, 238));    
     padding: 10px 30px;
@@ -96,4 +97,15 @@ h5{
     color: white;
     font-weight: 900px;
     border-radius: 5px;
+}
+footer{
+    background-color:black ;
+    width: 100%;
+    padding-left: 50px;
+    margin-bottom: 100px;
+    text-align: center;
+    color: white;
+}
+.footer-2022-color{
+    color:orangered;
 }
