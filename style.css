@@ -1,7 +1,49 @@
 body{
     font-family: 'Barlow', sans-serif;
-font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    
 }
 h1{
-    font-size: 50px;
+    font-size: 40px;
+    border-left: solid;
+    border-color: blue;
+}
+.Mission-of-2022{
+    color:rgb(19, 71, 167);
+}
+section{
+    display: flex;
+}
+
+.div-width{
+    width: 70%;
+    padding-left: 10%;
+    margin-left: 5%;
+   
+    
+
+    
+}
+.div-width img{
+    width: 70%;
+    
+}
+p{
+    margin-bottom: 20PX;
+}
+.explore-now-button{
+    text-decoration: none;
+    background-image: linear-gradient(blue, rgb(214, 209, 238));    
+    padding: 10px 30px;
+    color: white;
+    font-weight: 900px;
+    border-radius: 5px;    
+}
+h5{
+    margin-top: 50PX;
+}
+/*.border{
+    border-left: solid;
+    border-color: blue;
+    
 }
