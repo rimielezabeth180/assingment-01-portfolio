@@ -19,11 +19,7 @@ section{
     width: 70%;
     padding-left: 10%;
     margin-left: 5%;
-   
-    
-
-    
-}
+  }
 .div-width img{
     width: 70%;
     
@@ -41,9 +37,41 @@ p{
 }
 h5{
     margin-top: 50PX;
+    margin-bottom: 100px;
 }
-/*.border{
-    border-left: solid;
-    border-color: blue;
+.h2{
+    text-align: center;
+}
+.container{
+    width: 70%;
+    padding-left: 10%;
+    margin-left: 5%;
+}
+.box-image{
+    width: 100%;
+}
+.box-1{
+    width: 24%;
+    float: left;
+    margin: 10px;
+    background-color: rgb(147, 170, 214);
+    text-align: left;
+    padding: 15px;
     
+}
+.box-2{
+    width: 24%;
+    float: left;
+    margin: 10px;
+    background-color:rgb(218, 148, 183);
+    text-align: left;
+    padding: 15px;
+}
+.box-3{
+    width: 24%;
+    float: left;
+    margin: 10px;
+    background-color:rgb(219, 172, 154);
+    text-align: left;
+    padding: 15px;
 }
