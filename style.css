@@ -1,8 +1,7 @@
 body{
     font-family: 'Barlow', sans-serif;
     font-family: 'Poppins', sans-serif;
-    width: 70%;
-    
+    width: 70%;    
 }
 h1{
     font-size: 40px;
@@ -99,10 +98,8 @@ h5{
     border-radius: 5px;
 }
 footer{
-    background-color:black ;
-    width: 100%;
-    padding-left: 50px;
-    margin-bottom: 100px;
+    background-color:black;
+    width: 100%;    
     text-align: center;
     color: white;
 }
