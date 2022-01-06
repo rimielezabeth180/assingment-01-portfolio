@@ -33,11 +33,11 @@ p{
     padding: 10px 30px;
     color: white;
     font-weight: 900px;
-    border-radius: 5px;    
+    border-radius: 5px;
 }
 h5{
     margin-top: 50PX;
-    margin-bottom: 100px;
+    margin-bottom: 70px;
 }
 .h2{
     text-align: center;
@@ -46,12 +46,13 @@ h5{
     width: 70%;
     padding-left: 10%;
     margin-left: 5%;
+    margin-bottom: 100px;
 }
 .box-image{
     width: 100%;
 }
 .box-1{
-    width: 24%;
+    width: 25%;
     float: left;
     margin: 10px;
     background-color: rgb(147, 170, 214);
@@ -60,7 +61,7 @@ h5{
     
 }
 .box-2{
-    width: 24%;
+    width: 25%;
     float: left;
     margin: 10px;
     background-color:rgb(218, 148, 183);
@@ -68,13 +69,31 @@ h5{
     padding: 15px;
 }
 .box-3{
-    width: 24%;
+    width: 25%;
     float: left;
     margin: 10px;
     background-color:rgb(219, 172, 154);
     text-align: left;
     padding: 15px;
-}
-.develop-area{
+    }
+.corona-text-color{
+    color: orangered;
 
+}
+.readthedocumenation-button{
+    text-decoration: none;
+    background-image: linear-gradient(blue, rgb(214, 209, 238));    
+    padding: 10px 30px;
+    color: white;
+    font-weight: 900px;
+    border-radius: 5px;
+    margin-bottom: 500px;
+}
+.app-features-buton{
+    text-decoration: none;
+    background-image: linear-gradient(blue, rgb(214, 209, 238));    
+    padding: 10px 30px;
+    color: white;
+    font-weight: 900px;
+    border-radius: 5px;
 }
