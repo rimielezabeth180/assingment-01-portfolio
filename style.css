@@ -1,6 +1,7 @@
 body{
     font-family: 'Barlow', sans-serif;
     font-family: 'Poppins', sans-serif;
+    width: 70%;
     
 }
 h1{
@@ -8,9 +9,9 @@ h1{
     border-left: solid;
     border-color: blue;
 }
-.Mission-of-2022{
+/*.Mission-of-2022{
     color:rgb(19, 71, 167);
-}
+}*/
 section{
     display: flex;
 }
@@ -21,8 +22,7 @@ section{
     margin-left: 5%;
   }
 .div-width img{
-    width: 70%;
-    
+    width: 70%;    
 }
 p{
     margin-bottom: 20PX;
@@ -74,4 +74,7 @@ h5{
     background-color:rgb(219, 172, 154);
     text-align: left;
     padding: 15px;
+}
+.develop-area{
+
 }
